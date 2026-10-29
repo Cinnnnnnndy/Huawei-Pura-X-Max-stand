@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="830" viewBox="0 0 1250 830" font-family="PingFang SC, Hiragino Sans GB, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="30" y="30" font-size="19" font-weight="bold" fill="#222">Pura X Max 支架 · 尺寸图（单位 mm）</text>
+<text x="342.0" y="72.0" font-size="16" fill="#222" text-anchor="middle" font-weight="bold">侧视（剖面轮廓，左为前）</text>
+<polygon points="90.0,374.1 90.0,373.7 90.0,373.4 90.1,372.9 90.1,372.6 90.3,372.0 90.3,371.9 92.7,362.9 92.7,362.8 92.9,362.2 93.0,361.9 93.2,361.5 93.4,361.2 93.6,360.7 93.8,360.5 94.1,360.0 94.3,359.8 94.6,359.4 94.8,359.2 95.2,358.8 95.4,358.6 95.8,358.3 96.1,358.1 96.5,357.8 96.8,357.7 97.2,357.4 97.5,357.3 98.0,357.1 98.3,357.0 98.8,356.9 99.1,356.8 99.6,356.7 99.9,356.7 100.4,356.6 100.7,356.6 101.2,356.6 101.5,356.7 102.0,356.7 102.4,356.8 102.9,356.9 103.1,356.9 107.0,358.0 107.1,358.0 107.7,358.2 108.0,358.3 108.5,358.5 108.7,358.7 109.2,358.9 109.5,359.1 109.9,359.4 110.1,359.6 110.5,359.9 110.7,360.1 111.1,360.5 111.3,360.7 111.5,360.9 111.6,361.1 111.8,361.4 112.1,361.8 112.2,362.1 112.5,362.5 112.6,362.8 112.8,363.3 112.9,363.6 113.0,364.1 113.1,364.4 113.2,364.9 113.2,365.2 113.3,365.7 113.3,366.0 113.3,366.5 113.3,366.8 113.2,367.3 113.1,367.6 113.0,368.2 113.0,368.4 111.9,372.3 111.8,373.0 111.7,373.6 111.7,374.2 111.8,374.8 111.9,375.4 112.0,376.0 112.3,376.6 112.5,377.1 112.9,377.6 113.3,378.1 113.7,378.6 114.2,379.0 114.7,379.3 115.2,379.6 115.8,379.9 116.1,380.0 116.4,380.1 126.5,382.8 163.1,392.6 179.7,397.0 180.4,397.2 181.5,397.5 181.9,397.6 183.4,398.0 249.6,151.2 253.8,135.2 256.0,127.1 257.5,125.1 259.7,123.9 262.1,123.6 280.7,128.5 282.6,130.0 283.9,132.2 284.2,134.6 283.9,135.6 283.1,138.7 282.2,141.9 280.4,148.8 280.0,150.4 278.6,155.4 275.3,167.9 272.5,178.2 247.5,271.4 249.3,270.7 251.8,270.7 254.0,271.6 255.8,273.4 256.7,275.6 256.8,277.4 258.6,292.4 261.6,306.7 265.8,319.9 270.5,330.8 277.3,342.8 285.4,353.9 293.9,363.4 303.5,372.0 315.2,380.7 328.1,388.5 341.9,395.3 355.2,400.7 371.6,406.0 389.1,410.5 407.9,414.2 427.7,417.2 445.4,419.0 585.6,419.0 587.8,419.2 589.8,420.1 591.5,421.4 592.9,423.2 593.7,425.2 594.0,427.4 594.0,437.9 591.9,440.0 92.1,440.0 90.0,437.9 90.0,374.2" fill="#ecebe6" stroke="#222" stroke-width="1.4"/>
+<line x1="31.2" y1="440.0" x2="644.4" y2="440.0" stroke="#222" stroke-width="1" stroke-dasharray="6 4"/>
+<polygon points="182.7,397.0 128.4,382.4 215.1,58.7 269.5,73.2" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="5 3"/>
+<text x="220.9" y="147.2" font-size="11" fill="#888" text-anchor="middle" transform="rotate(-75 220.9 147.2)">手机（折叠+壳 13.6）</text>
+<line x1="90.0" y1="440.0" x2="90.0" y2="478.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="594.0" y1="440.0" x2="594.0" y2="478.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="90.0" y1="474.0" x2="594.0" y2="474.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M90.0,474.0 l8.0,3.0 l0.0,-6.0 z" fill="#1f5fa8"/>
+<path d="M594.0,474.0 l-8.0,-3.0 l-0.0,6.0 z" fill="#1f5fa8"/>
+<text x="342.0" y="491.0" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(0.0 342.0 487.0)">120 进深</text>
+<line x1="249.6" y1="123.6" x2="661.2" y2="123.6" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="644.4" y1="123.6" x2="640.4" y2="123.6" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="644.4" y1="440.0" x2="640.4" y2="440.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="644.4" y1="123.6" x2="644.4" y2="440.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M644.4,123.6 l-3.0,8.0 l6.0,-0.0 z" fill="#1f5fa8"/>
+<path d="M644.4,440.0 l3.0,-8.0 l-6.0,0.0 z" fill="#1f5fa8"/>
+<text x="631.4" y="285.8" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(90.0 631.4 281.8)">75.3 总高</text>
+<line x1="594.0" y1="419.0" x2="618.0" y2="419.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="594.0" y1="440.0" x2="618.0" y2="440.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="614.0" y1="419.0" x2="614.0" y2="440.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M614.0,419.0 l-3.0,8.0 l6.0,-0.0 z" fill="#1f5fa8"/>
+<path d="M614.0,440.0 l3.0,-8.0 l-6.0,0.0 z" fill="#1f5fa8"/>
+<text x="627.0" y="433.5" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(90.0 627.0 429.5)">5</text>
+<line x1="183.3" y1="398.0" x2="39.6" y2="398.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="56.4" y1="440.0" x2="60.4" y2="440.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="56.4" y1="398.0" x2="60.4" y2="398.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="56.4" y1="440.0" x2="56.4" y2="398.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M56.4,440.0 l3.0,-8.0 l-6.0,-0.0 z" fill="#1f5fa8"/>
+<path d="M56.4,398.0 l-3.0,8.0 l6.0,0.0 z" fill="#1f5fa8"/>
+<text x="69.4" y="423.0" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(-90.0 69.4 419.0)">10</text>
+<line x1="257.2" y1="122.1" x2="173.1" y2="99.6" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="183.3" y1="398.0" x2="99.2" y2="375.5" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="176.9" y1="100.6" x2="103.0" y2="376.5" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M176.9,100.6 l-5.0,7.0 l5.8,1.6 z" fill="#1f5fa8"/>
+<path d="M103.0,376.5 l5.0,-7.0 l-5.8,-1.6 z" fill="#1f5fa8"/>
+<text x="127.4" y="239.2" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(-75.0 127.4 235.2)">68 脊面贴合长度</text>
+<text x="301.4" y="119.9" font-size="12" fill="#1f5fa8" text-anchor="start" font-weight="normal">脊厚 7</text>
+<line x1="275.4" y1="123.9" x2="299.4" y2="115.9" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="183.3" y1="398.0" x2="225.3" y2="398.0" stroke="#c0392b" stroke-width="0.8" stroke-dasharray="3 3"/>
+<path d="M209.3,398.0 A26,26 0 0 0 190.0,372.9" fill="none" stroke="#c0392b" stroke-width="1.4"/>
+<text x="217.3" y="380.0" font-size="15" fill="#c0392b" text-anchor="start" font-weight="bold">75°</text>
+<rect x="100" y="545" width="330" height="250" fill="#fafaf8" stroke="#ccc" rx="6"/>
+<text x="265.0" y="568.0" font-size="13" fill="#222" text-anchor="middle" font-weight="bold">托槽放大（×2）</text>
+<clipPath id="zc"><rect x="100" y="580" width="330" height="215"/></clipPath>
+<polygon clip-path="url(#zc)" points="150.0,690.7 150.0,689.9 150.1,689.3 150.2,688.2 150.3,687.5 150.6,686.3 150.7,686.0 155.8,666.9 155.9,666.5 156.3,665.3 156.5,664.7 156.9,663.7 157.2,663.1 157.8,662.1 158.1,661.6 158.7,660.7 159.1,660.1 159.9,659.3 160.3,658.8 161.1,658.0 161.6,657.6 162.5,656.9 163.0,656.5 163.9,655.9 164.5,655.6 165.5,655.1 166.1,654.8 167.1,654.4 167.7,654.2 168.8,653.9 169.4,653.8 170.5,653.6 171.2,653.5 172.3,653.4 173.0,653.4 174.1,653.4 174.7,653.4 175.8,653.6 176.5,653.7 177.7,653.9 178.0,654.0 186.4,656.2 186.7,656.3 187.9,656.7 188.5,657.0 189.6,657.4 190.2,657.7 191.1,658.2 191.7,658.6 192.6,659.2 193.1,659.6 194.0,660.3 194.4,660.8 195.2,661.6 195.6,662.1 196.1,662.6 196.3,662.9 196.7,663.5 197.3,664.4 197.6,665.0 198.1,666.0 198.4,666.6 198.8,667.6 199.0,668.2 199.3,669.3 199.5,669.9 199.7,671.0 199.8,671.7 199.9,672.8 199.9,673.4 199.9,674.5 199.8,675.2 199.7,676.3 199.6,676.9 199.3,678.2 199.2,678.5 197.0,687.0 196.7,688.3 196.5,689.6 196.5,691.0 196.6,692.3 196.9,693.6 197.2,694.9 197.7,696.1 198.3,697.3 199.0,698.4 199.9,699.4 200.8,700.4 201.8,701.2 202.9,702.0 204.0,702.6 205.2,703.2 206.0,703.4 206.5,703.6 228.2,709.4 306.6,730.4 342.3,740.0 343.7,740.3 346.0,740.9 347.0,741.2 350.2,742.1 491.9,213.2 501.1,178.9 505.8,161.4 509.0,157.2 513.6,154.6 518.8,153.9 558.6,164.6 562.8,167.8 565.4,172.4 566.1,177.6 565.6,179.8 563.8,186.4 562.0,193.2 558.0,207.9 557.1,211.4 554.2,222.1 547.0,248.9 541.1,271.1 487.6,470.8 491.4,469.2 496.7,469.2 501.5,471.2 505.3,474.9 507.3,479.8 507.4,483.6 511.2,515.8 517.7,546.4 526.6,574.6 536.8,597.9 551.4,623.6 568.7,647.5 586.9,667.8 607.4,686.3 632.6,704.9 660.2,721.6 689.8,736.3 718.2,747.7 753.4,759.1 791.0,768.8 831.1,776.8 873.7,783.1 911.5,786.9 1212.0,786.9 1216.7,787.5 1221.0,789.3 1224.7,792.2 1227.6,795.9 1229.4,800.3 1230.0,804.9 1230.0,827.5 1225.5,832.0 154.5,832.0 150.0,827.5 150.0,690.9" fill="#ecebe6" stroke="#222" stroke-width="1.4"/>
+<line x1="349.9" y1="742.0" x2="356.7" y2="716.9" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="193.5" y1="700.1" x2="200.2" y2="675.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="355.6" y1="720.7" x2="199.2" y2="678.8" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M355.6,720.7 l-7.0,-5.0 l-1.6,5.8 z" fill="#1f5fa8"/>
+<path d="M199.2,678.8 l7.0,5.0 l1.6,-5.8 z" fill="#1f5fa8"/>
+<text x="280.8" y="691.2" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(15.0 280.8 687.2)">18 槽深</text>
+<line x1="193.5" y1="700.1" x2="200.2" y2="675.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="150.0" y1="688.4" x2="156.7" y2="663.3" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="199.2" y1="678.8" x2="155.7" y2="667.2" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M199.2,678.8 l-7.0,-5.0 l-1.6,5.8 z" fill="#1f5fa8"/>
+<path d="M155.7,667.2 l7.0,5.0 l1.6,-5.8 z" fill="#1f5fa8"/>
+<text x="180.8" y="664.4" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(15.0 180.8 660.4)">5 厚</text>
+<line x1="150.0" y1="688.4" x2="130.7" y2="683.2" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="160.5" y1="649.3" x2="141.2" y2="644.1" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="134.5" y1="684.3" x2="145.0" y2="645.2" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M134.5,684.3 l5.0,-7.0 l-5.8,-1.6 z" fill="#1f5fa8"/>
+<path d="M145.0,645.2 l-5.0,7.0 l5.8,1.6 z" fill="#1f5fa8"/>
+<text x="127.2" y="665.4" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(-75.0 127.2 661.4)">4.5</text>
+<text x="110.0" y="610.0" font-size="12" fill="#1f5fa8" text-anchor="start" font-weight="normal">前沿高 4.5</text>
+<text x="110.0" y="626.0" font-size="11" fill="#777" text-anchor="start" font-weight="normal">（沿靠背方向）</text>
+<text x="921.0" y="60.0" font-size="16" fill="#222" text-anchor="middle" font-weight="bold">俯视（下为前；虚线为底面结构）</text>
+<rect x="690.0" y="120.0" width="462.0" height="504.0" rx="58.8" fill="#ecebe6" stroke="#222" stroke-width="1.4"/>
+<path d="M710.6,598.8 H1131.4" stroke="#222" stroke-width="0.8"/>
+<rect x="837.0" y="428.4" width="168.0" height="115.4" rx="10" fill="#dcdad3" stroke="#222" stroke-width="1.1"/>
+<rect x="887.4" y="262.8" width="67.2" height="169.8" rx="5" fill="#dcdad3" stroke="#222" stroke-width="1.1"/>
+<circle cx="795.0" cy="430.8" r="53.6" fill="none" stroke="#8a6d3b" stroke-dasharray="4 3"/>
+<circle cx="795.0" cy="237.6" r="53.6" fill="none" stroke="#8a6d3b" stroke-dasharray="4 3"/>
+<circle cx="1047.0" cy="430.8" r="53.6" fill="none" stroke="#8a6d3b" stroke-dasharray="4 3"/>
+<circle cx="1047.0" cy="237.6" r="53.6" fill="none" stroke="#8a6d3b" stroke-dasharray="4 3"/>
+<circle cx="736.2" cy="577.8" r="22.1" fill="none" stroke="#2e7d32" stroke-dasharray="3 2"/>
+<circle cx="736.2" cy="166.2" r="22.1" fill="none" stroke="#2e7d32" stroke-dasharray="3 2"/>
+<circle cx="1105.8" cy="577.8" r="22.1" fill="none" stroke="#2e7d32" stroke-dasharray="3 2"/>
+<circle cx="1105.8" cy="166.2" r="22.1" fill="none" stroke="#2e7d32" stroke-dasharray="3 2"/>
+<rect x="910.5" y="120.0" width="21.0" height="458.6" fill="none" stroke="#555" stroke-dasharray="3 2"/>
+<circle cx="921.0" cy="558.8" r="27.3" fill="none" stroke="#555" stroke-width="1.1"/>
+<line x1="690.0" y1="624.0" x2="690.0" y2="658.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1152.0" y1="624.0" x2="1152.0" y2="658.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="690.0" y1="654.0" x2="1152.0" y2="654.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M690.0,654.0 l8.0,3.0 l0.0,-6.0 z" fill="#1f5fa8"/>
+<path d="M1152.0,654.0 l-8.0,-3.0 l-0.0,6.0 z" fill="#1f5fa8"/>
+<text x="921.0" y="671.0" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(0.0 921.0 667.0)">110 宽</text>
+<line x1="1152.0" y1="624.0" x2="1202.0" y2="624.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1152.0" y1="120.0" x2="1202.0" y2="120.0" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1198.0" y1="624.0" x2="1198.0" y2="120.0" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M1198.0,624.0 l3.0,-8.0 l-6.0,-0.0 z" fill="#1f5fa8"/>
+<path d="M1198.0,120.0 l-3.0,8.0 l6.0,0.0 z" fill="#1f5fa8"/>
+<text x="1211.0" y="376.0" font-size="13" fill="#1f5fa8" text-anchor="middle" transform="rotate(-90.0 1211.0 372.0)">120 进深</text>
+<line x1="837.0" y1="543.7" x2="837.0" y2="561.7" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1005.0" y1="543.7" x2="1005.0" y2="561.7" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="837.0" y1="557.7" x2="1005.0" y2="557.7" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M837.0,557.7 l8.0,3.0 l0.0,-6.0 z" fill="#1f5fa8"/>
+<path d="M1005.0,557.7 l-8.0,-3.0 l-0.0,6.0 z" fill="#1f5fa8"/>
+<text x="870.6" y="574.7" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(0.0 870.6 570.7)">40 脊宽</text>
+<line x1="887.4" y1="262.8" x2="887.4" y2="246.8" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="954.6" y1="262.8" x2="954.6" y2="246.8" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="887.4" y1="250.8" x2="954.6" y2="250.8" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M887.4,250.8 l8.0,3.0 l0.0,-6.0 z" fill="#1f5fa8"/>
+<path d="M954.6,250.8 l-8.0,-3.0 l-0.0,6.0 z" fill="#1f5fa8"/>
+<text x="921.0" y="241.8" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(0.0 921.0 237.8)">16</text>
+<line x1="795.0" y1="184.1" x2="795.0" y2="174.1" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1047.0" y1="184.1" x2="1047.0" y2="174.1" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="795.0" y1="178.1" x2="1047.0" y2="178.1" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M795.0,178.1 l8.0,3.0 l0.0,-6.0 z" fill="#1f5fa8"/>
+<path d="M1047.0,178.1 l-8.0,-3.0 l-0.0,6.0 z" fill="#1f5fa8"/>
+<text x="921.0" y="169.1" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(0.0 921.0 165.1)">60 间距</text>
+<line x1="1152.0" y1="430.8" x2="1168.0" y2="430.8" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1152.0" y1="237.6" x2="1168.0" y2="237.6" stroke="#1f5fa8" stroke-width="0.6"/>
+<line x1="1164.0" y1="430.8" x2="1164.0" y2="237.6" stroke="#1f5fa8" stroke-width="1"/>
+<path d="M1164.0,430.8 l3.0,-8.0 l-6.0,-0.0 z" fill="#1f5fa8"/>
+<path d="M1164.0,237.6 l-3.0,8.0 l6.0,0.0 z" fill="#1f5fa8"/>
+<text x="1177.0" y="338.2" font-size="12" fill="#1f5fa8" text-anchor="middle" transform="rotate(-90.0 1177.0 334.2)">46</text>
+<line x1="1152.0" y1="430.8" x2="1047.0" y2="430.8" stroke="#1f5fa8" stroke-width="0.5" stroke-dasharray="2 2"/>
+<line x1="1152.0" y1="237.6" x2="1047.0" y2="237.6" stroke="#1f5fa8" stroke-width="0.5" stroke-dasharray="2 2"/>
+<text x="698.4" y="132.6" font-size="13" fill="#1f5fa8" text-anchor="start" font-weight="normal"></text>
+<text x="696.0" y="112.0" font-size="12" fill="#1f5fa8" text-anchor="start" font-weight="normal">R14 圆角</text>
+<line x1="690.0" y1="710.0" x2="716.0" y2="710.0" stroke="#8a6d3b" stroke-width="1.4" stroke-dasharray="4 3"/>
+<text x="724.0" y="714.0" font-size="12" fill="#222" text-anchor="start" font-weight="normal">一元硬币配重位 Ø25.5 × 2 深（4 个）</text>
+<line x1="690.0" y1="730.0" x2="716.0" y2="730.0" stroke="#2e7d32" stroke-width="1.4" stroke-dasharray="3 2"/>
+<text x="724.0" y="734.0" font-size="12" fill="#222" text-anchor="start" font-weight="normal">脚垫位 Ø10.5 × 1.2 深，距边 11</text>
+<line x1="690.0" y1="750.0" x2="716.0" y2="750.0" stroke="#555" stroke-width="1.4" stroke-dasharray="3 2"/>
+<text x="724.0" y="754.0" font-size="12" fill="#222" text-anchor="start" font-weight="normal">底面线槽 宽 5，后沿出线</text>
+<line x1="690.0" y1="770.0" x2="716.0" y2="770.0" stroke="#555" stroke-width="1.4"/>
+<text x="724.0" y="774.0" font-size="12" fill="#222" text-anchor="start" font-weight="normal">托底插头坑 Ø13（配 90° 弯头线）</text>
+</svg>
